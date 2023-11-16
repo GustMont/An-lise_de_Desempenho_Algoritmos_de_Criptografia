@@ -1,1 +1,1 @@
-# An-lise_de_Desempenho_Algoritmos_de_Criptografia
+Pesquise uma biblioteca em Python que implemente o algoritmo AES-256 e realize testes de tempo de resposta. Realize pelo menos 10 testes no total, registre os resultados em uma tabela e elabore uma descrição textual do método utilizado e dos resultados obtidos. Cada teste deverá ser realizado 100 vezes, e uma análise estatística simples deve ser realizada (calcular desvio padrão e apresentar um histograma).
